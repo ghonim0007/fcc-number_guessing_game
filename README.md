@@ -35,7 +35,7 @@ This project is a **Bash script** that interacts with a **PostgreSQL database** 
 Below are the images confirming the successful completion of this project:  
 
 ![Completion Proof](number_guessing_game.png)  
-![Completed 3 of 5 certification projects](Completed_3.png)  
+![Completed 3 of 5 certification projects](Completed_4.png)  
 
 ---
 
